@@ -44,11 +44,12 @@
   }
 
   &__name {
-    color: #0033ff !important;
+    color: var(--global-accent-color) !important;
+    font-weight: 700;
   }
 
   &__highlight {
-    color: #0033ff !important;
+    color: var(--global-accent-color) !important;
   }
 }
 
@@ -75,18 +76,24 @@
 }
 
 .masthead__social-links {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin-left: 1rem;
+  display: table-cell !important;
+  vertical-align: middle;
+  white-space: nowrap;
+  padding-left: 1rem;
 
   a {
+    display: inline-block !important;
     color: var(--global-text-color-light);
     font-size: 1.1rem;
-    padding: 0.3rem;
+    padding: 0.3rem 0.4rem;
+    margin: 0 !important;
 
     &:hover {
       color: var(--global-link-color);
+    }
+
+    &:before {
+      display: none !important;
     }
   }
 }

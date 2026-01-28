@@ -17,8 +17,8 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 
 /* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 6px;
+$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.06);
 $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
@@ -27,21 +27,24 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
+/* Color palette: Refined slate-indigo with warm accents */
 :root {
-    --global-base-color                 : #{$gray};
-    --global-bg-color                   : #fafafa;
-    --global-footer-bg-color            : #f5f5f5;
-    --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #f0f0f0;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #0ea5e9;
-    --global-link-color-hover           : #0284c7;
-    --global-link-color-visited         : #0369a1;
-    --global-masthead-link-color        : #1a1a1a;
-    --global-masthead-link-color-hover  : #0ea5e9;
-    --global-text-color                 : #1a1a1a;
-    --global-text-color-light           : #666;
-    --global-thead-color                : #{$lighter-gray};
+    --global-base-color                 : #64748b;
+    --global-bg-color                   : #ffffff;
+    --global-footer-bg-color            : #f8fafc;
+    --global-border-color               : #e2e8f0;
+    --global-dark-border-color          : #cbd5e1;
+    --global-code-background-color      : #f1f5f9;
+    --global-code-text-color            : #334155;
+    --global-fig-caption-color          : #64748b;
+    --global-link-color                 : #4f46e5;
+    --global-link-color-hover           : #6366f1;
+    --global-link-color-visited         : #7c3aed;
+    --global-masthead-link-color        : #334155;
+    --global-masthead-link-color-hover  : #4f46e5;
+    --global-text-color                 : #1e293b;
+    --global-text-color-light           : #64748b;
+    --global-thead-color                : #f1f5f9;
+    --global-accent-color               : #4f46e5;
+    --global-accent-color-light         : #eef2ff;
 }
