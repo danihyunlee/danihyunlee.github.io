@@ -15,7 +15,7 @@ author_profile: false
 
 **Columbia University** | New York, NY | Aug 2018 – May 2022
 
-B.E. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summa Cum Laude*
+B.S. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summa Cum Laude*
 
 ---
 
@@ -23,9 +23,10 @@ B.E. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summ
 
 **MIT CSAIL, Improbable AI Lab** | Research Collaborator | Apr 2025 – Present
 
-**Columbia University** | Multimodal Decision Transformers | Aug 2021 – Dec 2021
+**Columbia University** | Student Researcher | Aug 2021 – Dec 2021
 
-**Burke Energy & Combustion Lab** | NSF Undergraduate Research Intern | Jul 2019 – Aug 2019; May 2020 – Jul 2020
+**Burke Energy & Combustion Lab** | NSF Undergraduate Research Intern | Summer
+2019 & 2020
 
 ---
 
@@ -34,8 +35,6 @@ B.E. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summ
 **Bregal Sagemount** | Technology Private Equity Associate | Aug 2024 – Present
 
 **Evercore** | Investment Banking Analyst, Technology M&A | Jul 2022 – Jun 2024
-
-**Remee App** | Product Manager | Aug 2020 – Nov 2020
 
 ---
 
