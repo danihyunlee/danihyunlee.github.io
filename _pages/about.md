@@ -18,27 +18,26 @@ Research Collaborator, MIT CSAIL | Former Growth Investor
 
 ---
 
-I'm interested in developing methods that learn general intelligence—interpretable representations that transfer across diverse domains. My research explores synthetic data pretraining and alternative training paradigms beyond next-token prediction.
+I'm interested in developing methods for learning general intelligence: interpretable representations and training procedures that transfer across diverse domains. My research focuses on synthetic data pretraining and alternative training paradigms beyond next-token prediction, with the goal of building models that acquire reusable structure rather than brittle, domain-specific patterns.
 
-Currently, I'm a research collaborator at MIT CSAIL's [Improbable AI Lab](https://improbable.ai/) with Professor [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/), where I explore how synthetic training distributions can improve model generalization and data efficiency.
+I'm currently a research collaborator at MIT CSAIL's [Improbable AI Lab](https://improbable.ai/) with Professor [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/), where I study how synthetic training distributions—such as algorithmic and cellular-automata-based data—can induce useful inductive biases for reasoning, generalization, and data efficiency. My work explores how the structure and complexity of synthetic data affect downstream performance and transfer.
 
 ---
 
 ## Research Interests
 
-- **Synthetic pretraining** — Using algorithmic and synthetic data to address limitations in natural language
-- **Training paradigms** — Exploring objectives beyond next-token prediction for improved generalization
-- **Transfer learning** — Understanding what characteristics of training data enable transfer across domains
+- **Synthetic pretraining** — Using algorithmic and synthetic environments to study and improve inductive bias, data efficiency, and generalization
+- **Training paradigms** — Exploring objectives and learning setups beyond next-token prediction to better support reasoning and abstraction
+- **Transfer & representations** — Understanding what properties of training data and objectives enable robust cross-domain transfer
+- **Structure & complexity** — Studying how the computational structure and complexity of pretraining data shape learned representations
 
 ---
 
 ## Background
 
-Previously, I was a growth investor at [Bregal Sagemount](https://www.bregalsagemount.com/) and an investment banker at [Evercore's](https://www.evercore.com/) Technology M&A group. Working with software companies showed me how ML models struggle with adaptability across contexts—sparking my curiosity about fundamental approaches to learning general intelligence.
+Before focusing full-time on research, I worked as a growth investor at [Bregal Sagemount](https://www.bregalsagemount.com/) and as an investment banker in [Evercore's](https://www.evercore.com/) Technology M&A group. Working closely with software and ML-driven companies highlighted a recurring gap: modern models often perform well in narrow settings but struggle to adapt across contexts. That experience motivated my interest in more fundamental approaches to learning general, transferable representations.
 
-I graduated *summa cum laude* from Columbia University with a B.S. in Computer Science (Intelligent Systems & ML Track) and a minor in Economics, where I was an Egleston Scholar.
-
-At Columbia, I worked with Professor [Michael Burke](https://www.me.columbia.edu/faculty/michael-burke) on computer vision methods for automated data extraction from combustion experiments, and served as Head TA for Data Structures (COMS 3134).
+I graduated *summa cum laude* from Columbia University with a B.S. in Computer Science (Intelligent Systems & ML Track) and a minor in Economics, where I was an Egleston Scholar. At Columbia, I focused on machine learning, robotics learning, and algorithms, and served as Head TA for Data Structures (COMS 3134).
 
 ---
 
