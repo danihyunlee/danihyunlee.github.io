@@ -44,4 +44,4 @@ At Columbia, I worked with Professor [Michael Burke](https://www.me.columbia.edu
 
 ## Beyond Research
 
-Running, bouldering, guitar, and reading—favorites include Haruki Murakami and Kurt Vonnegut.
+Outside of research, I enjoy hiking, cooking, photography, reading, working out, and playing TFT. I'm particularly drawn to literature that explores identity, abstraction, and meaning—with favorites including Haruki Murakami, Kurt Vonnegut, and Hermann Hesse.
