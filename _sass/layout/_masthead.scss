@@ -27,7 +27,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+    padding: 0.25em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -41,6 +41,14 @@
     a {
       text-decoration: none;
     }
+  }
+
+  &__name {
+    color: #0033ff !important;
+  }
+
+  &__highlight {
+    color: #0033ff !important;
   }
 }
 

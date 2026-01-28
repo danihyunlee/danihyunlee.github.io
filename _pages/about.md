@@ -7,17 +7,9 @@ author_profile: false
 
 <div class="profile-header">
   <img src="/images/profile.png" alt="Dan Lee" class="profile-image">
-  <div class="social-links">
-    <a href="mailto:dani.cmh.lee@gmail.com"><i class="fas fa-envelope"></i> Email</a>
-    <a href="https://scholar.google.com/citations?user=9sXW7koAAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap"></i> Scholar</a>
-    <a href="https://x.com/Danicmhlee" target="_blank"><i class="fab fa-twitter"></i> X</a>
-    <a href="https://www.linkedin.com/in/dan-l-92a06a135/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-    <a href="https://github.com/danihyunlee" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-  </div>
 </div>
 
-# <span class="name-highlight">Dan Lee</span> (종민)
-
+# <span class="name-highlight">Dan Lee (종민) </span> 
 ---
 
 I'm Dan (종민) Lee from Long Island, currently based in NYC. I'm
@@ -25,7 +17,7 @@ interested broadly in machine learning and artificial intelligence.
 
 Recently in my research, I've thought about the question of general intelligence.
 Specifically, ***how can models learn representations that are transferable to
-diverse domains and learn continually?***. My current work explores synthetic
+diverse domains and learn continually?*** My current work explores synthetic
 data as a means to learn a universal representation or computational priors to
 adapt across domains.
 

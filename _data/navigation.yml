@@ -1,6 +1,10 @@
 # Main navigation links
 
 main:
+  - title: "About Me"
+    url: /
+    highlight: true
+
   - title: "Publications"
     url: /publications/
 
