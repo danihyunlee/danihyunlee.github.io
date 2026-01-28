@@ -1,0 +1,142 @@
+/* ==========================================================================
+   MINIMAL LAYOUT STYLES
+   Modern, centered single-column design
+   ========================================================================== */
+
+.minimal-layout {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2em 1.5em 4em;
+
+  @include breakpoint($medium) {
+    padding: 3em 2em 5em;
+  }
+
+  .page {
+    float: none;
+    width: 100%;
+  }
+
+  .page__content {
+    h1 {
+      font-size: 2.2em;
+      font-weight: 700;
+      margin-bottom: 0.1em;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      font-size: 1.1em;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-top: 2.5em;
+      margin-bottom: 1em;
+      color: var(--global-text-color);
+    }
+
+    h3 {
+      font-size: 1em;
+      font-weight: 600;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    p {
+      font-size: 1.05em;
+      line-height: 1.7;
+      margin-bottom: 1.2em;
+      color: var(--global-text-color);
+    }
+
+    /* Subtitle/tagline styling */
+    p:first-of-type {
+      font-size: 1.1em;
+      color: #555;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid #e5e5e5;
+      margin: 2em 0;
+    }
+
+    ul, ol {
+      line-height: 1.8;
+      margin-bottom: 1.5em;
+
+      li {
+        margin-bottom: 0.5em;
+      }
+    }
+
+    a {
+      color: var(--global-link-color);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.2s ease;
+
+      &:hover {
+        border-bottom-color: var(--global-link-color);
+      }
+    }
+
+    strong {
+      font-weight: 600;
+    }
+
+    /* Profile image styling */
+    .profile-image {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1.5em;
+      border: 3px solid #f0f0f0;
+    }
+
+    /* Intro section */
+    .intro {
+      margin-bottom: 2em;
+    }
+
+    /* Social links */
+    .social-links {
+      display: flex;
+      gap: 1em;
+      margin-top: 0.5em;
+      margin-bottom: 1em;
+
+      a {
+        color: #666;
+        font-size: 0.9em;
+
+        &:hover {
+          color: var(--global-link-color);
+        }
+      }
+    }
+
+    /* Research interest cards */
+    .research-item {
+      margin-bottom: 1em;
+
+      strong {
+        color: var(--global-text-color);
+      }
+    }
+  }
+}
+
+/* Hide sidebar on minimal layout */
+.minimal-layout + .sidebar,
+.minimal-layout ~ .sidebar {
+  display: none;
+}
+
+/* Adjust masthead for minimal pages */
+body:has(.minimal-layout) {
+  .masthead {
+    border-bottom: 1px solid #eee;
+  }
+}

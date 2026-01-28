@@ -1,64 +1,61 @@
 ---
-layout: archive
+layout: minimal
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+author_profile: false
 ---
 
-{% include base_path %}
+# CV
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Download PDF](/files/cv.pdf){: .btn}
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Columbia University** | New York, NY | 2017–2021
+B.S. in Computer Science (Intelligent Systems & Machine Learning Track)
+Minor in Economics | *Summa Cum Laude* | Egleston Scholar
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Research Experience
+
+**MIT CSAIL, Improbable AI Lab** | Cambridge, MA | 2024–Present
+*Research Collaborator*
+Advisor: Professor Pulkit Agrawal
+- Exploring synthetic data pretraining for language models
+- Investigating alternative training paradigms beyond next-token prediction
+
+**Columbia University, Burke Lab** | New York, NY | 2019–2021
+*Undergraduate Researcher*
+Advisor: Professor Michael Burke
+- Developed computer vision methods for automated data extraction from combustion experiments
+- Reduced data processing time from hours to minutes
+
+---
+
+## Industry Experience
+
+**Bregal Sagemount** | New York, NY | 2022–2024
+*Growth Equity Investor*
+- Invested in capital-efficient software and tech-enabled services businesses
+- Active board member on risk committee for financial technology investment
+
+**Evercore** | New York, NY | 2021–2022
+*Investment Banking Analyst, Technology M&A*
+- Advised on mergers and acquisitions for technology companies
+
+---
+
+## Teaching
+
+**Columbia University** | New York, NY | 2019–2021
+*Head Teaching Assistant, Data Structures (COMS 3134)*
+
+---
+
+## Skills
+
+**Programming:** Python, PyTorch, JAX, C++, Java
+**Research Areas:** Machine Learning, Reinforcement Learning, NLP, Computer Vision
