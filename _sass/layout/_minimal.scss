@@ -19,7 +19,7 @@
 
   .page__content {
     h1 {
-      font-family: $monospace;
+      font-family: $sans-serif;
       font-size: 2em;
       font-weight: 500;
       margin-bottom: 0.1em;
@@ -27,7 +27,7 @@
     }
 
     h2 {
-      font-family: $monospace;
+      font-family: $sans-serif;
       font-size: 1em;
       font-weight: 500;
       text-transform: uppercase;
@@ -38,7 +38,7 @@
     }
 
     h3 {
-      font-family: $monospace;
+      font-family: $sans-serif;
       font-size: 0.95em;
       font-weight: 500;
       margin-top: 1.5em;
@@ -88,14 +88,27 @@
       font-weight: 600;
     }
 
-    /* Profile image styling */
-    .profile-image {
-      width: 140px;
-      height: 140px;
-      border-radius: 50%;
-      object-fit: cover;
+    /* Profile header with image and social links side by side */
+    .profile-header {
+      display: flex;
+      align-items: center;
+      gap: 1.5em;
       margin-bottom: 1.5em;
+    }
+
+    /* Profile image styling - larger and more square */
+    .profile-image {
+      width: 180px;
+      height: 180px;
+      border-radius: 12px;
+      object-fit: cover;
       border: 3px solid #f0f0f0;
+      flex-shrink: 0;
+    }
+
+    /* Name highlight color */
+    .name-highlight {
+      color: #0033ff;
     }
 
     /* Intro section */
@@ -103,12 +116,11 @@
       margin-bottom: 2em;
     }
 
-    /* Social links */
+    /* Social links - vertical layout next to image */
     .social-links {
       display: flex;
-      gap: 1em;
-      margin-top: 0.5em;
-      margin-bottom: 1em;
+      flex-direction: column;
+      gap: 0.6em;
 
       a {
         color: #666;

@@ -26,7 +26,7 @@ B.S. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summ
 **Columbia University** | Student Researcher | Aug 2021 – Dec 2021
 
 **Burke Energy & Combustion Lab** | NSF Undergraduate Research Intern | Summer
-2019 & 2020
+2019, 2020
 
 ---
 

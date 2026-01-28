@@ -65,3 +65,20 @@
     font-weight: 700;
   }
 }
+
+.masthead__social-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 1rem;
+
+  a {
+    color: var(--global-text-color-light);
+    font-size: 1.1rem;
+    padding: 0.3rem;
+
+    &:hover {
+      color: var(--global-link-color);
+    }
+  }
+}
