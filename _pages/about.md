@@ -5,7 +5,7 @@ layout: minimal
 author_profile: false
 ---
 
-<img src="/images/profile.HEIC" alt="Dan Lee" class="profile-image">
+<img src="/images/profile.png" alt="Dan Lee" class="profile-image">
 
 # Dan Lee
 
