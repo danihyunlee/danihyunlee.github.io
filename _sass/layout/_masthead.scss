@@ -44,12 +44,17 @@
   }
 
   &__name {
-    color: var(--global-accent-color) !important;
-    font-weight: 700;
+    color: var(--global-text-color) !important;
+    font-weight: 500;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: var(--global-accent-color) !important;
+    }
   }
 
   &__highlight {
-    color: var(--global-accent-color) !important;
+    color: var(--global-text-color) !important;
   }
 }
 
@@ -68,23 +73,26 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-size: 0.9rem;
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 500;
+    font-size: 0.9rem;
   }
 }
 
 .masthead__social-links {
-  display: table-cell !important;
-  vertical-align: middle;
+  display: flex !important;
+  align-items: center;
   white-space: nowrap;
+  margin-left: auto;
   padding-left: 1rem;
 
   a {
     display: inline-block !important;
     color: var(--global-text-color-light);
-    font-size: 1.1rem;
+    font-size: 1rem;
     padding: 0.3rem 0.4rem;
     margin: 0 !important;
 

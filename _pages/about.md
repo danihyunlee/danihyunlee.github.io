@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <div class="profile-header">
-  <img src="/images/profile.png" alt="Dan Lee" class="profile-image">
+  <img src="/images/profile_new.png" alt="Dan Lee" class="profile-image">
 </div>
 
 # <span class="name-highlight">Dan Lee (종민) </span> 
