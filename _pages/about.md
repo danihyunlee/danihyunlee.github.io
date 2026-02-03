@@ -32,7 +32,7 @@ I'm currently a research collaborator at MIT CSAIL with Professor Pulkit Agrawal
 ## Life Updates & Achievements
 
 - graduated summa cum laude as an Egleston Scholar from [Columbia
-  University](columbia.edu)
+  University](mailto:dhl2134@columbia.edu)
 
 ---
 
