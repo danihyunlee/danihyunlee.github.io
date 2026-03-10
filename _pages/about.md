@@ -25,7 +25,7 @@ Outside of research, I love cooking, hiking, working out, playing TFT, and
 reading. I'm particularly drawn to literature that explores identity, abstraction, and
 meaning.
 
-I'm currently a research collaborator at MIT CSAIL with Professor Pulkit Agrawal. Previously, I was an early-stage technology and software investor.
+I'm an incoming research-focused MSCS at UIUC. I'm currently a research collaborator at MIT CSAIL with Professor Pulkit Agrawal. Previously, I was an early-stage technology and software investor.
 
 ---
 
@@ -33,11 +33,12 @@ I'm currently a research collaborator at MIT CSAIL with Professor Pulkit Agrawal
 
 - graduated summa cum laude as an Egleston Scholar from [Columbia
   University](mailto:dhl2134@columbia.edu)
+- accepted to UIUC thesis-based MSCS program
 
 ---
 
 ## Pre-Prints & Publications
-- Coming Soon!
+- *[Training Language Models via Neural Cellular Automata](https://hanseungwook.github.io/blog/nca-pre-pre-training/)* by **Dan Lee**\*, Seungwook Han\*, Akarsh Kumar, Pulkit Agrawal. Preprint.
 
 ---
 
