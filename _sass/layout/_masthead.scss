@@ -58,7 +58,7 @@
     align-items: center;
     padding: 0;
 
-    &:hover .blue-square {
+    &:hover .blue-circle {
       opacity: 0.8;
     }
   }
@@ -103,7 +103,7 @@
     display: inline-block !important;
     color: var(--global-text-color-light);
     font-size: 0.85rem;
-    padding: 0.3rem 0.5rem;
+    padding: 0.3rem 0.75rem;
     margin: 0 !important;
 
     &:hover {
@@ -116,11 +116,11 @@
   }
 }
 
-.blue-square {
+.blue-circle {
   display: inline-block;
   width: 20px;
   height: 20px;
   background-color: #0018A8;
-  border-radius: 2px;
+  border-radius: 50%;
   vertical-align: middle;
 }

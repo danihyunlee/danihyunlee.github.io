@@ -9,10 +9,14 @@ author_profile: false
 
 ---
 
-## Posts
-
-- *[NCA Pre-Pre-Training](https://hanseungwook.github.io/blog/nca-pre-pre-training/)* — A companion blog post on training language models via neural cellular automata, by Seungwook Han.
+<div style="margin-bottom: 2em;">
+  <a href="https://hanseungwook.github.io/blog/nca-pre-pre-training/">
+    <img src="/images/nca_pt.jpeg" alt="NCA Pre-Pre-Training" style="width: 100%; border-radius: 8px; margin-bottom: 1em;">
+  </a>
+  <h3 style="margin-top: 0;"><a href="https://hanseungwook.github.io/blog/nca-pre-pre-training/">NCA Pre-Pre-Training</a></h3>
+  <p>Can language models learn useful priors without ever seeing language? We explore this question by pre-pre-training LLMs on neural cellular automata, a fully synthetic and computational source of training data.</p>
+</div>
 
 ---
 
-*More thoughts on ML research, learning, and the journey from industry to academia — coming soon.*
+*More posts coming soon.*
