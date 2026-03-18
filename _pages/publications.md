@@ -11,10 +11,12 @@ author_profile: false
 
 ## Preprints
 
-*Coming soon*
+- *[Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)* — **Dan Lee**\*, Seungwook Han\*, Akarsh Kumar, Pulkit Agrawal. 2025.
+
+  [Blog post](https://hanseungwook.github.io/blog/nca-pre-pre-training/) by Seungwook Han
 
 ---
 
 ## Publications
 
-*Coming soon*
+*More coming soon.*

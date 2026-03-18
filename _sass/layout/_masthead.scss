@@ -53,6 +53,16 @@
     }
   }
 
+  &__logo {
+    display: flex;
+    align-items: center;
+    padding: 0;
+
+    &:hover .blue-square {
+      opacity: 0.8;
+    }
+  }
+
   &__highlight {
     color: var(--global-text-color) !important;
   }
@@ -92,8 +102,8 @@
   a {
     display: inline-block !important;
     color: var(--global-text-color-light);
-    font-size: 1rem;
-    padding: 0.3rem 0.4rem;
+    font-size: 0.85rem;
+    padding: 0.3rem 0.5rem;
     margin: 0 !important;
 
     &:hover {
@@ -104,4 +114,13 @@
       display: none !important;
     }
   }
+}
+
+.blue-square {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: #0018A8;
+  border-radius: 2px;
+  vertical-align: middle;
 }
