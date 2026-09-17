@@ -13,6 +13,12 @@ author_profile: false
 
 ## Education
 
+**University of Illinois Urbana-Champaign** | Urbana, IL | Aug 2026 – Present
+
+M.S. (research-based, funded), TRAIS Lab | Advisor: Professor Jiaqi Ma
+
+---
+
 **Columbia University** | New York, NY | Aug 2018 – May 2022
 
 B.S. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summa Cum Laude*
@@ -23,6 +29,9 @@ B.S. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summ
 ---
 
 ## Research
+
+**TRAIS Lab, UIUC** | Research-based M.S. Student | Aug 2026 – Present
+- Advised by Professor Jiaqi Ma
 
 **MIT CSAIL, Improbable AI Lab** | Research Collaborator | Apr 2025 – Present
 - Working with Professor Pulkit Agrawal on synthetic pretraining and neural cellular automata for language models
@@ -51,4 +60,5 @@ B.S. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summ
 
 ## Publications
 
+- *[Convergent Emergence of In-Context Learning Across Modalities](https://arxiv.org/abs/2609.14011)* — Nathan Breslow, Seungwook Han, **Daniel Hyunsoo Lee**, Aayush Mishra, Anqi Liu, Daniel Khashabi. Preprint, 2026.
 - *[Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)* — **Dan Lee**\*, Seungwook Han\*, Akarsh Kumar, Pulkit Agrawal. Preprint, 2025.

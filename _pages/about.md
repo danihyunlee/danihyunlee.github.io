@@ -25,18 +25,21 @@ Outside of research, I love cooking, hiking, working out, playing TFT, and
 reading. I'm particularly drawn to literature that explores identity, abstraction, and
 meaning.
 
-I'm currently a research collaborator at MIT CSAIL with Professor Pulkit Agrawal. Previously, I was an early-stage technology and software investor.
+I'm currently a first-year research-based funded MS student at the [TRAIS Lab](https://trais-lab.github.io/) at UIUC, advised by Professor Jiaqi Ma. I'm also a research collaborator at MIT CSAIL with Professor Pulkit Agrawal. Previously, I was an early-stage technology and software investor.
 
 ---
 
 ## Life Updates & Achievements
 
+- started as a first-year research-based funded MS student at the [TRAIS
+  Lab](https://trais-lab.github.io/) at UIUC, advised by Professor Jiaqi Ma
 - graduated summa cum laude as an Egleston Scholar from [Columbia
   University](mailto:dhl2134@columbia.edu)
 
 ---
 
 ## Pre-Prints & Publications
+- *[Convergent Emergence of In-Context Learning Across Modalities](https://arxiv.org/abs/2609.14011)* by Nathan Breslow, Seungwook Han, **Daniel Hyunsoo Lee**, Aayush Mishra, Anqi Liu, Daniel Khashabi. Preprint.
 - *[Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)* by **Dan Lee**\*, Seungwook Han\*, Akarsh Kumar, Pulkit Agrawal. Preprint.
 
 ---
