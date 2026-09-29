@@ -40,7 +40,7 @@ I'm currently a first-year research-based funded MS student at the [TRAIS Lab](h
 ---
 
 ## Pre-Prints & Publications
-- *Pre-Pre-Training Before Pixels and Genes* by **Dan Lee**\*, Seungwook Han\*, Nathan Breslow, Mahler Revsine, Daniel Khashabi, Pulkit Agrawal. **Spotlight Presentation**, Workshop on Linguistic Principles for Foundation Models.
+- *Pre-Pre-Training Before Pixels and Genes* by **Dan Lee**\*, Seungwook Han\*, Nathan Breslow, Mahler Revsine, Daniel Khashabi, Pulkit Agrawal. **Spotlight Presentation**, NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models.
 - *[Convergent Emergence of In-Context Learning Across Modalities](https://arxiv.org/abs/2609.14011)* by Nathan Breslow, Seungwook Han, **Daniel Hyunsoo Lee**, Aayush Mishra, Anqi Liu, Daniel Khashabi. Preprint.
 - *[Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)* by **Dan Lee**\*, Seungwook Han\*, Akarsh Kumar, Pulkit Agrawal. NeurIPS 2026.
 
