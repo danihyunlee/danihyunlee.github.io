@@ -17,7 +17,7 @@ author_profile: false
 
 ## Publications
 
-- *Pre-Pre-Training Before Pixels and Genes* — **Dan Lee**, Seungwook Han, Nathan Breslow, Mahler Revsine, Daniel Khashabi, Pulkit Agrawal. **Spotlight Presentation**, Workshop on Linguistic Principles for Foundation Models.
+- *Pre-Pre-Training Before Pixels and Genes* — **Dan Lee**\*, Seungwook Han\*, Nathan Breslow, Mahler Revsine, Daniel Khashabi, Pulkit Agrawal. **Spotlight Presentation**, Workshop on Linguistic Principles for Foundation Models.
 
 - *[Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)* — **Dan Lee**\*, Seungwook Han\*, Akarsh Kumar, Pulkit Agrawal. *Conference on Neural Information Processing Systems (NeurIPS)*, 2026.
 
