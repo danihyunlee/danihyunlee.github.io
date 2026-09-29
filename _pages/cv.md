@@ -60,5 +60,6 @@ B.S. in Computer Science (Intelligent Systems Track), Minor in Economics | *Summ
 
 ## Publications
 
+- *Pre-Pre-Training Before Pixels and Genes* — **Dan Lee**, Seungwook Han, Nathan Breslow, Mahler Revsine, Daniel Khashabi, Pulkit Agrawal. **Spotlight Presentation**, Workshop on Linguistic Principles for Foundation Models.
 - *[Convergent Emergence of In-Context Learning Across Modalities](https://arxiv.org/abs/2609.14011)* — Nathan Breslow, Seungwook Han, **Daniel Hyunsoo Lee**, Aayush Mishra, Anqi Liu, Daniel Khashabi. Preprint, 2026.
 - *[Training Language Models via Neural Cellular Automata](https://arxiv.org/abs/2603.10055)* — **Dan Lee**\*, Seungwook Han\*, Akarsh Kumar, Pulkit Agrawal. Preprint, 2025.
